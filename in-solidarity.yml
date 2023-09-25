@@ -1,0 +1,2 @@
+#_extends: ietf/terminology
+_extends: riscv/friendly-terminology
